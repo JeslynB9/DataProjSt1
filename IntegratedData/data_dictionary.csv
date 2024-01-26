@@ -1,0 +1,21 @@
+Column,Data Type,Description
+Economy Name,String,The name of the country
+Economy Code,String,A three letter code that is closely related to the economy
+GQII Score,Float,"The GQII Score for every economy, the relative development of an economy's QI"
+GQII Rank,Integer,The economy's rank compared to the others
+GINI 2019,Float,The GINI coefficients in 2019
+GINI 2020,Float,The GINI coefficients in 2020
+GINI 2021,Float,The GINI coefficients in 2021
+Human Development Index (HDI),Float,HDI Score in each economy
+Life expectancy at birth,Float,Average life expectancy in years
+Expected years of schooling,Float,Total years of school for children 18+
+Mean years of schooling,Float,Average education for adults aged 25+
+Gross national income (GNI) per capita,Integer,The income level of a country's population
+Development group,String,Classifying countries based on their HDI
+Ranked Universities in Top 1000,Integer,Number of university in the top 1000 for each economy
+,,
+All data was opendata sourced from the following,,
+University Data,,
+HDI Data,,
+GINI Data,,
+GQII Data,,

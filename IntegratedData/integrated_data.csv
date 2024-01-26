@@ -1,0 +1,37 @@
+Economy Name,Economy Code,GQII Scores,GQII Rank,GINI 2019,GINI 2020,GINI 2021,Human Development Index (HDI) ,Life expectancy at birth,Expected years of schooling,Mean years of schooling,Gross national income (GNI) per capita,Development group,Ranked Universities in Top 1000
+Argentina,ARG,0.8155,41,42.9,42.3,42.0,0.842,75.4,17.9,11.1,"20,925",Very High Development,7
+Austria,AUT,0.8844,23,30.2,29.8,29.8,0.916,81.6,16.0,12.3,"53,619",Very High Development,24
+Belgium,BEL,0.8248,36,27.2,26.0,26.0,0.937,81.9,19.6,12.4,"52,293",Very High Development,20
+Brazil,BRA,0.9225,13,53.5,48.9,52.9,0.754,72.8,15.6,8.1,"14,370",High Development,36
+Bulgaria,BGR,0.8227,38,40.3,40.5,40.5,0.795,71.8,13.9,11.4,"23,079",High Development,2
+Chile,CHL,0.7833,46,,44.9,44.9,0.855,78.9,16.7,10.9,"24,563",Very High Development,8
+China,CHN,0.9901,2,38.2,38.2,38.2,0.768,78.2,14.2,7.6,"17,504",High Development,167
+Colombia,COL,0.8157,40,51.3,53.5,51.5,0.752,72.8,14.4,8.9,"14,384",High Development,4
+Croatia,HRV,0.7042,52,28.9,29.5,29.5,0.858,77.6,15.1,12.2,"30,132",Very High Development,2
+Cyprus,CYP,0.5017,90,31.2,31.7,31.7,0.896,81.2,15.6,12.4,"38,188",Very High Development,2
+Denmark,DNK,0.8524,27,27.7,27.5,27.5,0.948,81.4,18.7,13.0,"60,365",Very High Development,12
+Estonia,EST,0.6099,64,30.8,30.7,30.7,0.89,77.1,15.9,13.5,"38,048",Very High Development,2
+Finland,FIN,0.864,25,27.7,27.1,27.1,0.94,82.0,19.1,12.9,"49,452",Very High Development,20
+France,FRA,0.9725,6,31.2,30.7,30.7,0.903,82.5,15.8,11.6,"45,937",Very High Development,109
+Germany,DEU,0.9958,1,31.7,31.7,31.7,0.942,80.6,17.0,14.1,"54,534",Very High Development,115
+Greece,GRC,0.8264,35,33.1,33.6,33.6,0.887,80.1,20.0,11.4,"29,002",Very High Development,14
+Hungary,HUN,0.8849,22,30.0,29.7,29.7,0.846,74.5,15.0,12.2,"32,789",Very High Development,12
+India,IND,0.931,10,35.7,35.7,35.7,0.633,67.2,11.9,6.7,"6,590",Medium Human Development,31
+Ireland,IRL,0.7916,44,30.8,29.2,29.2,0.945,82.0,18.9,11.6,"76,169",Very High Development,16
+Italy,ITA,0.9567,8,34.6,35.2,35.2,0.895,82.9,16.2,10.7,"42,840",Very High Development,96
+Lithuania,LTU,0.694,55,35.3,36.0,36.0,0.875,73.7,16.3,13.5,"37,931",Very High Development,2
+Mexico,MEX,0.9112,18,,45.4,45.4,0.758,70.2,14.9,9.2,"17,896",High Development,4
+Netherlands,NLD,0.9129,17,29.2,26.0,26.0,0.941,81.7,18.7,12.6,"55,979",Very High Development,29
+Norway,NOR,0.8272,34,27.7,27.7,27.7,0.961,83.2,18.2,13.0,"64,660",Very High Development,12
+Poland,POL,0.9265,11,28.8,28.8,28.8,0.876,76.5,16.0,13.2,"33,034",Very High Development,18
+Portugal,PRT,0.8405,32,32.8,34.7,34.7,0.866,81.0,16.9,9.6,"33,155",Very High Development,14
+Romania,ROU,0.8687,24,34.8,34.6,34.6,0.821,74.2,14.2,11.3,"30,027",Very High Development,3
+Serbia,SRB,0.8219,39,34.5,35.0,35.0,0.802,74.2,14.4,11.4,"19,123",Very High Development,2
+Slovenia,SVN,0.7621,47,24.4,24.0,24.0,0.918,80.7,17.7,12.8,"39,746",Very High Development,4
+Spain,ESP,0.9483,9,34.3,34.9,34.9,0.905,83.0,17.9,10.6,"38,354",Very High Development,81
+Sweden,SWE,0.8964,21,29.3,28.9,28.9,0.947,83.0,19.4,12.6,"54,489",Very High Development,24
+Thailand,THA,0.8313,33,34.9,35.0,35.1,0.8,78.7,15.9,8.7,"17,030",Very High Development,6
+Uganda,UGA,0.3988,112,42.7,42.7,42.7,0.525,62.7,10.1,5.7,"2,181",Low Human Development,2
+United Kingdom,GBR,0.9816,4,32.8,32.6,32.6,0.929,80.7,17.3,13.4,"45,225",Very High Development,144
+United States,USA,0.9867,3,41.5,39.7,39.7,0.921,77.2,16.3,13.7,"64,765",Very High Development,570
+Uruguay,URY,0.6573,58,39.7,40.2,40.8,0.809,75.4,16.8,9.0,"21,269",Very High Development,2
